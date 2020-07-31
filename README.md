@@ -1,2 +1,2 @@
-# Daily-Paper
-Daily review for new research in statistics and machine learning
+# DataScienceLearning
+Notes of learning data science
