@@ -25,7 +25,11 @@ print(primes)
 
 #using one-line loop
 primes_lc = [j for j in range(2, N) if all(j % i != 0 for i in range(2, j))]
+```
 
+# Example 2: isprime
+
+```
 #using lambda function
 def isprime(N):
     count = 0;
